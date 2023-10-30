@@ -13,6 +13,6 @@ All following lines are student answers.
 The first answer is a good answer (provided by the teacher). It deserves maximum points. Then score each of the other answers to the question.
 
 # OUTPUT FORMAT
-First return a Scoring Scale with a quick breakdown of what you give points for.
+First return a Scoring Scale with a quick breakdown of what you give points for. Ignore spelling and grammar mistakes for the score, focus just one understanding and sense-making.
 
 Then, return an output table with 4 columns: the provided answer, the point score, your reasoning / feedback on the right, feedback for the student to improve their answer. Use language that is helpful to 6th grade students without sounding like a child.
